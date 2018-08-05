@@ -1,0 +1,12 @@
+1.body temprature - 				96F(normal body temprature)-110F					(range slider)
+2.runny nose 					0 no,1 yes								(radio button)
+3.Headache					0 no,1 mild, 2 moderate, 3 extreme					(range slider)
+4.sore throat					0 no,1 yes								(radio button)
+5.cough						0 stubborn,1 submissive,2 absent					(range slider)
+6.presence of body cold				0 no,1 since 2 days,2 since 4 days,3 since 5 days, 4 since a  week	(range slider)
+7.appetite					0 resistance to appetite,1 less appetite, 2 normal appetite		(range slider)
+8.unusual tirednes/fatigue			0 no, 1 yes								(radio button)
+9.diarrhoea					0 no, 1 yes								(radio button)
+10.vomiting					0 no, 1 ocassional, 1 persistant					(range slider)
+11.aching muscles				0 no, 1 yes								(radio button)
+12.presenece of swine flu			0 not likely,1 less likely, 2 more likely,3 most likely 	
